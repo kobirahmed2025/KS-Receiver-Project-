@@ -7,8 +7,8 @@ from telethon import TelegramClient
 app = Flask(__name__)
 CORS(app)
 
-API_ID = int(os.getenv("TG_API_ID", "20676547"))
-API_HASH = os.getenv("TG_API_HASH", "73ee3c17f64c2cef18f436d2386b9f0f")
+API_ID = int(os.getenv("TG_API_ID", "26759670"))
+API_HASH = os.getenv("TG_API_HASH", "685d7e7ae0b7c4dac0bc7373552a46af")
 ADMIN_API_KEY = os.getenv("ADMIN_API_KEY", "change_this_secret_key")
 
 SESSION_FOLDER = "sessions"
