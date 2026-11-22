@@ -1,54 +1,62 @@
-<div align="center">
-  <div style="display: inline-block; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4c1d95 100%); color: #f8fafc; padding: 28px 36px; border-radius: 16px; border: 1px solid rgba(167, 139, 250, 0.35); box-shadow: 0 12px 30px rgba(15, 23, 42, 0.35); max-width: 680px; width: 100%; box-sizing: border-box;">
-    <div style="font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: #c4b5fd; font-weight: 700; margin-bottom: 8px;">
-      Official Project README
-    </div>
-    <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 800; color: #ffffff; letter-spacing: -0.5px;">
-      KS Receivee Project
-    </h1>
-    <p style="margin: 0 auto 18px auto; font-size: 15px; line-height: 1.6; color: #e2e8f0; max-width: 520px;">
-      Fast, structured, and reliable workflow built for clean execution and easy maintenance.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <span style="background: rgba(16, 185, 129, 0.18); color: #6ee7b7; border: 1px solid rgba(110, 231, 183, 0.35); padding: 5px 12px; border-radius: 999px; font-size: 12px; font-weight: 600;">Active Build</span>
-      <span style="background: rgba(56, 189, 248, 0.18); color: #7dd3fc; border: 1px solid rgba(125, 211, 252, 0.35); padding: 5px 12px; border-radius: 999px; font-size: 12px; font-weight: 600;">Custom Architecture</span>
-      <span style="background: rgba(251, 191, 36, 0.18); color: #fcd34d; border: 1px solid rgba(252, 211, 77, 0.35); padding: 5px 12px; border-radius: 999px; font-size: 12px; font-weight: 600;">v1.0 Ready</span>
-    </div>
+<div align="center" style="background: radial-gradient(circle at top left, #0f172a 0%, #020617 70%); border: 1px solid #1e293b; border-radius: 18px; padding: 32px 24px; max-width: 720px; margin: 0 auto; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);">
+  <div style="display: inline-block; background: rgba(56, 189, 248, 0.12); border: 1px solid rgba(56, 189, 248, 0.35); color: #38bdf8; font-size: 11px; font-weight: 700; letter-spacing: 2.2px; text-transform: uppercase; padding: 5px 14px; border-radius: 6px; margin-bottom: 14px;">
+    KS RECEIVE ENGINE
   </div>
+  <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #f8fafc; letter-spacing: -0.6px;">
+    KS Receivee Project
+  </h1>
+  <p style="margin: 0 auto 22px auto; font-size: 15px; line-height: 1.65; color: #94a3b8; max-width: 540px;">
+    High-precision request handling, clean verification flow, and structured automation built for dependable production use.
+  </p>
+  <table align="center" cellpadding="0" cellspacing="8" style="margin: 0 auto;">
+    <tr>
+      <td style="background: #111827; border: 1px solid #10b981; border-radius: 8px; padding: 7px 14px; color: #34d399; font-size: 12px; font-weight: 700;">
+        STATUS: ONLINE
+      </td>
+      <td style="background: #111827; border: 1px solid #8b5cf6; border-radius: 8px; padding: 7px 14px; color: #c4b5fd; font-size: 12px; font-weight: 700;">
+        CORE: MODULAR
+      </td>
+      <td style="background: #111827; border: 1px solid #f59e0b; border-radius: 8px; padding: 7px 14px; color: #fbbf24; font-size: 12px; font-weight: 700;">
+        BUILD: v2.0
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<div style="max-width: 680px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #6366f1; border-radius: 10px; padding: 18px 22px; margin-bottom: 18px; color: #0f172a;">
-    <div style="font-size: 16px; font-weight: 700; color: #1e1b4b; margin-bottom: 6px;">About KS Receivee</div>
-    <p style="margin: 0; font-size: 14px; line-height: 1.65; color: #334155;">
-      <strong>KS Receivee Project</strong> is designed to keep core operations organized, responsive, and easy to scale. Customize the sections below with your specific setup instructions, endpoints, and contact links.
-    </p>
-  </div>
-
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 20px;">
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);">
-      <div style="font-size: 13px; font-weight: 700; color: #4f46e5; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 6px;">01. Speed</div>
-      <div style="font-size: 13.5px; line-height: 1.55; color: #475569;">Streamlined logic focused on quick responses and low overhead.</div>
-    </div>
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);">
-      <div style="font-size: 13px; font-weight: 700; color: #0d9488; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 6px;">02. Clarity</div>
-      <div style="font-size: 13.5px; line-height: 1.55; color: #475569;">Clean modular structure so updates and debugging stay straightforward.</div>
-    </div>
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);">
-      <div style="font-size: 13px; font-weight: 700; color: #d97706; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 6px;">03. Reliability</div>
-      <div style="font-size: 13.5px; line-height: 1.55; color: #475569;">Consistent behavior across environments with clear configuration.</div>
-    </div>
-  </div>
+<div style="max-width: 720px; margin: 0 auto; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <table width="100%" cellpadding="0" cellspacing="12" style="border-collapse: separate; border-spacing: 0 12px;">
+    <tr>
+      <td style="background: #0b1120; border: 1px solid #1e293b; border-left: 4px solid #38bdf8; border-radius: 12px; padding: 18px 20px;">
+        <div style="font-size: 12px; font-weight: 700; color: #38bdf8; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 6px;">
+          System Architecture
+        </div>
+        <div style="font-size: 14px; line-height: 1.65; color: #cbd5e1;">
+          Engineered with a clear separation between request routing, validation logic, and client response layers so updates stay fast and predictable.
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: #0b1120; border: 1px solid #1e293b; border-left: 4px solid #10b981; border-radius: 12px; padding: 18px 20px;">
+        <div style="font-size: 12px; font-weight: 700; color: #10b981; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 6px;">
+          Automated Flow
+        </div>
+        <div style="font-size: 14px; line-height: 1.65; color: #cbd5e1;">
+          Designed to process incoming payloads smoothly, minimize manual intervention, and return consistent status responses.
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Installation & Usage
+## Directory Structure
 
-Clone the repository and configure your environment before starting the project:
-
-```bash
-git clone <your-repo-url>
-cd ks-receivee-project
+```text
+KS-Receivee/
+├── app.py
+├── requirements.txt
+└── templates/
+    └── index.html
