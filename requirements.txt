@@ -1,3 +1,4 @@
 Flask[async]
 flask-cors
 telethon
+gunicorn
